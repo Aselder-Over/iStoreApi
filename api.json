@@ -1,0 +1,141 @@
+API AUTH:
+POST
+{
+"phone" = "7 999 999 99 99"
+}
+
+API CODE_CHECK:
+POST
+{
+"code" = "2461"
+}
+
+API USER_DATA_EDIT:
+POST
+{
+"avatar_url" = "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiRxcmutbrkAhXtl4sKHdVmCJwQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FobbibJ_clipart-resolution-850806-tom-and-jerry-png-transparent%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184"
+"first_name" = "Jerry",
+"last_name" = "Lindberg",
+"bdate" = "12.08.1992",
+"email" = "jerry@gmail.com",
+"sex" = "male"
+}
+
+API USER_DATA_DISPLAY:
+GET
+{
+"avatar_url" = "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiRxcmutbrkAhXtl4sKHdVmCJwQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FobbibJ_clipart-resolution-850806-tom-and-jerry-png-transparent%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+"first_name" = "Jerry",
+"last_name" = "Lindberg",
+"bdate" = "12.08.1992",
+"email" = "jerry@gmail.com",
+"sex" = "male"
+}
+
+API MAIN_SCREEN:
+GET
+{
+"user": [
+  "first_name" = "Jerry",
+  "last_name" = "Lindberg",
+  "bonuses" = "900"
+],
+
+"events":[ {
+  "id" = 12312,
+  "image_url" = "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjK6IbZuLrkAhUNs4sKHTLKBXAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FiRoTohR_tom-and-jerry-clipart-yom-mouse-tom-and%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+  "link" = "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj3nNnyuLrkAhVNlIsKHRglDfgQjRx6BAgBEAQ&url=https%3A%2F%2Fimgbin.com%2Fpng%2Fpmj70E9c%2Fjerry-mouse-tom-cat-tom-and-jerry-png&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+  "description" = "Какой то текст"
+   },
+   {
+  "id" = 123213,
+  "image_url" = "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjK6IbZuLrkAhUNs4sKHTLKBXAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FiRoTohR_tom-and-jerry-clipart-yom-mouse-tom-and%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+  "link" = "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj3nNnyuLrkAhVNlIsKHRglDfgQjRx6BAgBEAQ&url=https%3A%2F%2Fimgbin.com%2Fpng%2Fpmj70E9c%2Fjerry-mouse-tom-cat-tom-and-jerry-png&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+  "description" = "Какой то текст"
+   },
+   {
+  "id" = 1231242,
+  "image_url" = "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjK6IbZuLrkAhUNs4sKHTLKBXAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FiRoTohR_tom-and-jerry-clipart-yom-mouse-tom-and%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+  "link" = "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj3nNnyuLrkAhVNlIsKHRglDfgQjRx6BAgBEAQ&url=https%3A%2F%2Fimgbin.com%2Fpng%2Fpmj70E9c%2Fjerry-mouse-tom-cat-tom-and-jerry-png&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+  "description" = "Какой то текст"
+   }
+ ],
+ 
+ "shops": [ {
+   "id" = 12321,
+   "shop_adress" = "Яракского, 80",
+   "shop_phone" = "32-35-60",
+   "shop_image" = "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj7rubpurrkAhVCi8MKHXUxDuYQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8G6b1Z5N4K9A0_cartoon-network-collab-tom-and-jerry-png%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+   "time_start" = "10:00",
+   "time_finish" = "21:00"
+ },
+ {
+   "id" = 4212321,
+   "shop_adress" = "Яракского, 26",
+   "shop_phone" = "38-40-20",
+   "shop_image" = "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj7rubpurrkAhVCi8MKHXUxDuYQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8G6b1Z5N4K9A0_cartoon-network-collab-tom-and-jerry-png%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+   "time_start" = "10:00",
+   "time_finish" = "21:00"
+ },
+ ]
+}
+
+API iSTORE_CARD
+GET
+{
+"card_info" : [
+  "user_image" = "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjBk93ju7rkAhXnk4sKHT51DtEQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8d3G6Z5Z5G6A0_tom-and-jerry-png-jerry-from-tom-and-jerry%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+  "first_name" = "Jerry",
+  "last_name" = "Lindberg",
+  "bonuses" = "1230",
+  "card_id" = "132 3121 312"
+],
+"transaction_history":[
+{
+  "sum" = "20 150",
+  "bonuses" = "831",
+  "date" = "02.06.19",
+  "shop_adress" = "Яракского, 26"
+},
+{
+  "sum" = "70 499",
+  "bonuses" = "2000",
+  "date" = "06.09.19",
+  "shop_adress" = "Коркмасова,10"
+}],
+
+"how_sell_bonuses": [
+  "description" = "Когда покупаете что то , используйте бонусы , бла бла"
+],
+"how_geT_bonuses": [
+  "description" = "Покупайте что нибудь и получите бонусы , бла бла"
+]
+}
+
+API NOTIFICATIONS
+GET
+{
+"notifications": [{
+  "title" = "Распродажа пауэрбанков",
+  "date" = "02.07.19",
+  "time" = "12:04"
+},
+
+{
+  "title" = "Распродажа ноутбуков",
+  "date" = "015.10.19",
+  "time" = "16:07"
+},
+
+{
+  "title" = "Распродажа айфонов",
+  "date" = "22.012.19",
+  "time" = "10:50"
+},]
+}
+
+
+
+
+
+
