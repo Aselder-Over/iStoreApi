@@ -13,11 +13,11 @@ GET
 API MAIN_SCREEN:
 GET
 {
-"user": [
+"user": {
   "firstName" : "Jerry",
   "lastName" : "Lindberg",
   "bonuses" : "900"
-],
+},
 
 "events":[ {
   "id" : 12312,
