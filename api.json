@@ -40,7 +40,7 @@ GET
  ],
  
  "shops": [ {
-   "id" = 12321,
+   "id" : 12321,
    "shopAdress" : "Яракского, 80",
    "shopPhone" : "32-35-60",
    "shopImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj7rubpurrkAhVCi8MKHXUxDuYQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8G6b1Z5N4K9A0_cartoon-network-collab-tom-and-jerry-png%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
@@ -48,7 +48,7 @@ GET
    "timeFinish" : "21:00"
  },
  {
-   "id" = 4212321,
+   "id" : 4212321,
    "shopAdress" : "Яракского, 26",
    "shopPhone" : "38-40-20",
    "shopImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj7rubpurrkAhVCi8MKHXUxDuYQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8G6b1Z5N4K9A0_cartoon-network-collab-tom-and-jerry-png%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
@@ -61,13 +61,14 @@ GET
 API iSTORE_CARD
 GET
 {
-"cardInfo" : [
+"cardInfo" : {
   "userImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjBk93ju7rkAhXnk4sKHT51DtEQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8d3G6Z5Z5G6A0_tom-and-jerry-png-jerry-from-tom-and-jerry%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
   "firstName" : "Jerry",
   "lastName" : "Lindberg",
   "bonuses" : "1230",
   "cardId" : "132 3121 312"
-],
+},
+  
 "transaction_history":[
 {
   "sum" : "20 150",
@@ -95,7 +96,7 @@ API NOTIFICATIONS
 GET
 {
 "notifications": [{
-  "id": 21321
+  "id": 21321,
   "title" : "Распродажа пауэрбанков",
   "notificationImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjBk93ju7rkAhXnk4sKHT51DtEQjRx6BAgBEAQ&ur",
   "date" : "02.07.19",
@@ -105,7 +106,7 @@ GET
 },
 
 {
-  "id": 12321
+  "id": 12321,
   "title" : "Распродажа ноутбуков",
   "notificationImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjBk93ju7rkAhXnk4sKHT51DtEQjRx6BAgBEAQ&ur",
   "date" : "015.10.19",
@@ -115,7 +116,7 @@ GET
 },
 
 {
-  "id": 32432
+  "id": 32432,
   "title" : "Распродажа айфонов",
   "notificationImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjBk93ju7rkAhXnk4sKHT51DtEQjRx6BAgBEAQ&ur",
   "date" : "22.012.19",
