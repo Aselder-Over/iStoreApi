@@ -7,7 +7,7 @@
 
 "events":[ {
   "id" : 12312,
-  "imageUrl" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjK6IbZuLrkAhUNs4sKHTLKBXAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FiRoTohR_tom-and-jerry-clipart-yom-mouse-tom-and%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+  "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_office_image.png",
   "link" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj3nNnyuLrkAhVNlIsKHRglDfgQjRx6BAgBEAQ&url=https%3A%2F%2Fimgbin.com%2Fpng%2Fpmj70E9c%2Fjerry-mouse-tom-cat-tom-and-jerry-png&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
   "description" : "Какой то текст"
    },
@@ -29,7 +29,7 @@
    "id" : 12321,
    "shopAdress" : "Яракского, 80",
    "shopPhone" : "32-35-60",
-   "shopImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj7rubpurrkAhVCi8MKHXUxDuYQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8G6b1Z5N4K9A0_cartoon-network-collab-tom-and-jerry-png%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+   "shopImage" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_office_image.png",
    "timeStart" : "10:00",
    "timeFinish" : "21:00"
  },
@@ -37,7 +37,7 @@
    "id" : 4212321,
    "shopAdress" : "Яракского, 26",
    "shopPhone" : "38-40-20",
-   "shopImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj7rubpurrkAhVCi8MKHXUxDuYQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8G6b1Z5N4K9A0_cartoon-network-collab-tom-and-jerry-png%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+   "shopImage" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_office_image.png",
    "timeStart" : "10:00",
    "timeFinish" : "21:00"
  },
