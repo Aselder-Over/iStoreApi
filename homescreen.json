@@ -8,19 +8,19 @@
 
 "events":[ {
   "id" : 12312,
-  "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_office_image.png",
+  "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Баннер.png",
   "link" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj3nNnyuLrkAhVNlIsKHRglDfgQjRx6BAgBEAQ&url=https%3A%2F%2Fimgbin.com%2Fpng%2Fpmj70E9c%2Fjerry-mouse-tom-cat-tom-and-jerry-png&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
   "description" : "Какой то текст"
    },
    {
   "id" : 123213,
-  "imageUrl" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjK6IbZuLrkAhUNs4sKHTLKBXAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FiRoTohR_tom-and-jerry-clipart-yom-mouse-tom-and%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+  "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_office_image.png",
   "link" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj3nNnyuLrkAhVNlIsKHRglDfgQjRx6BAgBEAQ&url=https%3A%2F%2Fimgbin.com%2Fpng%2Fpmj70E9c%2Fjerry-mouse-tom-cat-tom-and-jerry-png&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
   "description" : "Какой то текст"
    },
    {
   "id" : 1231242,
-  "imageUrl" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjK6IbZuLrkAhUNs4sKHTLKBXAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FiRoTohR_tom-and-jerry-clipart-yom-mouse-tom-and%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+  "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Баннер.png",
   "link" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj3nNnyuLrkAhVNlIsKHRglDfgQjRx6BAgBEAQ&url=https%3A%2F%2Fimgbin.com%2Fpng%2Fpmj70E9c%2Fjerry-mouse-tom-cat-tom-and-jerry-png&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
   "description" : "Какой то текст"
    }
