@@ -36,11 +36,28 @@
  },
  {
    "id" : 4212321,
-   "shopAdress" : "Яракского, 26",
+   "shopAddress" : "Яракского, 26",
    "shopPhone" : "38-40-20",
    "shopImage" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_office_image.png",
    "timeStart" : "10:00",
    "timeFinish" : "21:00"
- },
- ]
+ }],
+  
+  "serviceCenters" : [
+  {
+    "id" : 423432,
+    "centerAddress": "Каркмасова, 21",
+    "centerPhone" : "31-34-85",
+    "centerImage" : "https://github.com/nassdk/iStoreApi/blob/master/dev_service_center_image.png",
+    "timeStart" : "11:00",
+    "timeFinish" : "20:00"
+  },
+    {
+    "id" : 21343,
+    "centerAddress": "Каркмасова, 21",
+    "centerPhone" : "31-34-85",
+    "centerImage" : "https://github.com/nassdk/iStoreApi/blob/master/dev_service_center_image.png",
+    "timeStart" : "11:00",
+    "timeFinish" : "20:00"
+  }]
 }
