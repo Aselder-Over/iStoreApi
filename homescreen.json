@@ -28,17 +28,17 @@
  
  "shops": [ {
    "id" : 12321,
-   "shopAddress" : "Яракского, 80",
-   "shopPhone" : "32-35-60",
-   "shopImage" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_office_image.png",
+   "address" : "Яракского, 80",
+   "phone" : "32-35-60",
+   "image" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_office_image.png",
    "timeStart" : "10:00",
    "timeFinish" : "21:00"
  },
  {
    "id" : 4212321,
-   "shopAddress" : "Яракского, 26",
-   "shopPhone" : "38-40-20",
-   "shopImage" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_office_image.png",
+   "address" : "Яракского, 26",
+   "phone" : "38-40-20",
+   "image" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_office_image.png",
    "timeStart" : "10:00",
    "timeFinish" : "21:00"
  }],
@@ -46,17 +46,17 @@
   "serviceCenters" : [
   {
     "id" : 423432,
-    "centerAddress": "Каркмасова, 21",
-    "centerPhone" : "31-34-85",
-    "centerImage" : "https://github.com/nassdk/iStoreApi/blob/master/dev_service_center_image.png",
+    "address": "Каркмасова, 21",
+    "phone" : "31-34-85",
+    "image" : "https://github.com/nassdk/iStoreApi/blob/master/dev_service_center_image.png",
     "timeStart" : "11:00",
     "timeFinish" : "20:00"
   },
     {
     "id" : 21343,
-    "centerAddress": "Каркмасова, 21",
-    "centerPhone" : "31-34-85",
-    "centerImage" : "https://github.com/nassdk/iStoreApi/blob/master/dev_service_center_image.png",
+    "address": "Каркмасова, 21",
+    "phone" : "31-34-85",
+    "image" : "https://github.com/nassdk/iStoreApi/blob/master/dev_service_center_image.png",
     "timeStart" : "11:00",
     "timeFinish" : "20:00"
   }]
