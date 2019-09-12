@@ -48,7 +48,7 @@
     "id" : 423432,
     "address": "Каркмасова, 21",
     "phone" : "31-34-85",
-    "image" : "https://github.com/nassdk/iStoreApi/blob/master/dev_service_center_image.png",
+    "image" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_service_center_image.png",
     "timeStart" : "11:00",
     "timeFinish" : "20:00"
   },
@@ -56,7 +56,7 @@
     "id" : 21343,
     "address": "Каркмасова, 21",
     "phone" : "31-34-85",
-    "image" : "https://github.com/nassdk/iStoreApi/blob/master/dev_service_center_image.png",
+    "image" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_service_center_image.png",
     "timeStart" : "11:00",
     "timeFinish" : "20:00"
   }]
