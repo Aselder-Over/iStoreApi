@@ -4,5 +4,6 @@
 "lastName" : "Lindberg",
 "bDate" : "12.08.1992",
 "email" : "jerry@gmail.com",
-"sex" : "male"
+"sex" : "male", 
+"phone": "+ 7 989 666-33-21"
 }
