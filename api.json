@@ -16,46 +16,64 @@ GET
 "user": {
   "firstName" : "Jerry",
   "lastName" : "Lindberg",
-  "bonuses" : "900"
+  "bonuses" : "900",
+  "userImageUrl" : "https://www.shareicon.net/data/2016/05/24/770126_man_512x512.png"
 },
 
 "events":[ {
   "id" : 12312,
-  "imageUrl" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjK6IbZuLrkAhUNs4sKHTLKBXAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FiRoTohR_tom-and-jerry-clipart-yom-mouse-tom-and%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
-  "link" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj3nNnyuLrkAhVNlIsKHRglDfgQjRx6BAgBEAQ&url=https%3A%2F%2Fimgbin.com%2Fpng%2Fpmj70E9c%2Fjerry-mouse-tom-cat-tom-and-jerry-png&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+  "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Event.png",
+  "link" : "http://www.istore-d.ru",
   "description" : "Какой то текст"
    },
    {
   "id" : 123213,
-  "imageUrl" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjK6IbZuLrkAhUNs4sKHTLKBXAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FiRoTohR_tom-and-jerry-clipart-yom-mouse-tom-and%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
-  "link" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj3nNnyuLrkAhVNlIsKHRglDfgQjRx6BAgBEAQ&url=https%3A%2F%2Fimgbin.com%2Fpng%2Fpmj70E9c%2Fjerry-mouse-tom-cat-tom-and-jerry-png&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+  "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_office_image.png",
+  "link" : "http://www.istore-d.ru",
   "description" : "Какой то текст"
    },
    {
   "id" : 1231242,
-  "imageUrl" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjK6IbZuLrkAhUNs4sKHTLKBXAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FiRoTohR_tom-and-jerry-clipart-yom-mouse-tom-and%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
-  "link" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj3nNnyuLrkAhVNlIsKHRglDfgQjRx6BAgBEAQ&url=https%3A%2F%2Fimgbin.com%2Fpng%2Fpmj70E9c%2Fjerry-mouse-tom-cat-tom-and-jerry-png&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+  "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Event.png",
+  "link" : "http://www.istore-d.ru",
   "description" : "Какой то текст"
    }
  ],
  
  "shops": [ {
    "id" : 12321,
-   "shopAdress" : "Яракского, 80",
-   "shopPhone" : "32-35-60",
-   "shopImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj7rubpurrkAhVCi8MKHXUxDuYQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8G6b1Z5N4K9A0_cartoon-network-collab-tom-and-jerry-png%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+   "address" : "Яракского, 80",
+   "phone" : "32-35-60",
+   "image" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_office_image.png",
    "timeStart" : "10:00",
    "timeFinish" : "21:00"
  },
  {
    "id" : 4212321,
-   "shopAdress" : "Яракского, 26",
-   "shopPhone" : "38-40-20",
-   "shopImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj7rubpurrkAhVCi8MKHXUxDuYQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8G6b1Z5N4K9A0_cartoon-network-collab-tom-and-jerry-png%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+   "address" : "Яракского, 26",
+   "phone" : "38-40-20",
+   "image" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_office_image.png",
    "timeStart" : "10:00",
    "timeFinish" : "21:00"
- },
- ]
+ }],
+  
+  "serviceCenters" : [
+  {
+    "id" : 423432,
+    "address": "Каркмасова, 21",
+    "phone" : "31-34-85",
+    "image" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_service_center_image.png",
+    "timeStart" : "11:00",
+    "timeFinish" : "20:00"
+  },
+    {
+    "id" : 21343,
+    "address": "Каркмасова, 21",
+    "phone" : "31-34-85",
+    "image" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_service_center_image.png",
+    "timeStart" : "11:00",
+    "timeFinish" : "20:00"
+  }]
 }
 
 API iSTORE_CARD
