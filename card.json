@@ -1,0 +1,26 @@
+{
+"cardInfo" : {
+  "userImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjBk93ju7rkAhXnk4sKHT51DtEQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8d3G6Z5Z5G6A0_tom-and-jerry-png-jerry-from-tom-and-jerry%2F&psig=AOvVaw2EyE6E9N5GqjY67Fbeezxk&ust=1567798051878184",
+  "firstName" : "Jerry",
+  "lastName" : "Lindberg",
+  "bonuses" : "1230",
+  "cardNumber" : "132 3121 312"
+},
+  
+"transaction_history":[
+{
+  "sum" : "20 150",
+  "bonuses" : "831",
+  "date" : "02.06.19",
+  "shop_adress" : "Яракского, 26"
+},
+{
+  "sum" : "70 499",
+  "bonuses" : "2000",
+  "date" : "06.09.19",
+  "shopAdress" : "Коркмасова,10"
+}],
+
+"howSellBonuses" : "Когда покупаете что то , используйте бонусы , бла бла",
+"howGetBonuses" : "Покупайте что нибудь и получите бонусы , бла бла"
+}
