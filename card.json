@@ -1,0 +1,26 @@
+{
+"cardInfo" : {
+  "userImage" : "https://beru.ru/promo/bonus/static/img/IndexHead/man.png",
+  "firstName" : "Jerry",
+  "lastName" : "Lindberg",
+  "bonuses" : "1230",
+  "cardNumber" : "132 3121 312"
+},
+  
+"transaction_history":[
+{
+  "sum" : "20 150",
+  "bonuses" : "831",
+  "date" : "02.06.19",
+  "shop_adress" : "Яракского, 26"
+},
+{
+  "sum" : "70 499",
+  "bonuses" : "2000",
+  "date" : "06.09.19",
+  "shopAdress" : "Коркмасова,10"
+}],
+
+"howSellBonuses" : "Когда покупаете что то , используйте бонусы , бла бла",
+"howGetBonuses" : "Покупайте что нибудь и получите бонусы , бла бла"
+}
