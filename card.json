@@ -9,37 +9,37 @@
   
 "transaction_history":[
 {
-  "sum" : "20 150 ",
+  "sum" : "20 150",
   "bonuses" : "+831",
   "date" : "02.06.19",
   "shopAddress" : "Яракского, 26"
 },
 {
-  "sum" : "40 400 ",
+  "sum" : "40 400",
   "bonuses" : "-120",
   "date" : "06.09.19",
   "shopAddress" : "Коркмасова,10"
 },
 {
-  "sum" : "12 530 ",
+  "sum" : "12 530",
   "bonuses" : "+200",
   "date" : "06.09.19",
   "shopAddress" : "Яракского,10"
 },
 {
-  "sum" : "41 000 ",
+  "sum" : "41 000",
   "bonuses" : "-300",
   "date" : "06.09.19",
   "shopAddress" : "Коркмасова,10"
 }
 ,{
-  "sum" : "85 000 ",
+  "sum" : "85 000",
   "bonuses" : "+500",
   "date" : "06.09.19",
   "shopAddress" : "Яракского,10"
 }
 ,{
-  "sum" : "75 000 ",
+  "sum" : "75 000",
   "bonuses" : "+1000",
   "date" : "06.09.19",
   "shopAddress" : "Ленина,10"
