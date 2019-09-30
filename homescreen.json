@@ -28,7 +28,7 @@
  
  "shops": [ {
    "id" : 12321,
-   "address" : "Яракского, 80",
+   "address" : "Ярагского, 80",
    "phone" : "32-35-60",
    "image" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_office_image.png",
    "timeStart" : "10:00",
@@ -36,7 +36,7 @@
  },
  {
    "id" : 4212321,
-   "address" : "Яракского, 26",
+   "address" : "Ярагского, 26",
    "phone" : "38-40-20",
    "image" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_office_image.png",
    "timeStart" : "10:00",
