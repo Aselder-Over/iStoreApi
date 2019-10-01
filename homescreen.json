@@ -8,19 +8,19 @@
 
 "events":[ {
   "id" : 12312,
-  "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Event.png",
+  "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Watch.png",
   "link" : "http://www.istore-d.ru",
   "description" : "Какой то текст"
    },
    {
   "id" : 123213,
-  "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/dev_office_image.png",
+  "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Event.png",
   "link" : "http://www.istore-d.ru",
   "description" : "Какой то текст"
    },
    {
   "id" : 1231242,
-  "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Event.png",
+  "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Watch.png",
   "link" : "http://www.istore-d.ru",
   "description" : "Какой то текст"
    }
