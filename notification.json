@@ -1,7 +1,7 @@
 {
 "notifications": [{
   "id": 21321,
-  "titleImage" : "https://github.com/nassdk/iStoreApi/blob/master/Group%204.png",
+  "titleImage" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Group%204.png",
   "title" : "Распродажа пауэрбанков",
   "notificationImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjBk93ju7rkAhXnk4sKHT51DtEQjRx6BAgBEAQ&ur",
   "date" : "02.07.19",
@@ -12,7 +12,7 @@
 
 {
   "id": 12321,
-  "titleImage" : "https://github.com/nassdk/iStoreApi/blob/master/Group%204.png",
+  "titleImage" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Group%204.png",
   "title" : "Распродажа ноутбуков",
   "notificationImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjBk93ju7rkAhXnk4sKHT51DtEQjRx6BAgBEAQ&ur",
   "date" : "015.10.19",
@@ -23,7 +23,7 @@
 
 {
   "id": 32432,
-  "titleImage" : "https://github.com/nassdk/iStoreApi/blob/master/Group%204.1.png",
+  "titleImage" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Group%204.1.png",
   "title" : "Распродажа айфонов",
   "notificationImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjBk93ju7rkAhXnk4sKHT51DtEQjRx6BAgBEAQ&ur",
   "date" : "22.012.19",
@@ -33,7 +33,7 @@
 },
 {
   "id": 32432,
-  "titleImage" : "https://github.com/nassdk/iStoreApi/blob/master/Group%204.1.png",
+  "titleImage" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Group%204.png",
   "title" : "Распродажа айфонов",
   "notificationImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjBk93ju7rkAhXnk4sKHT51DtEQjRx6BAgBEAQ&ur",
   "date" : "22.012.19",
@@ -43,7 +43,7 @@
 },
 {
   "id": 12321,
-  "titleImage" : "https://github.com/nassdk/iStoreApi/blob/master/Group%204.png",
+  "titleImage" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Group%204.1.png",
   "title" : "Распродажа ноутбуков",
   "notificationImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjBk93ju7rkAhXnk4sKHT51DtEQjRx6BAgBEAQ&ur",
   "date" : "015.10.19",
@@ -53,7 +53,7 @@
 },
 {
   "id": 32432,
-  "titleImage" : "https://github.com/nassdk/iStoreApi/blob/master/Group%204.1.png",
+  "titleImage" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Group%204.png.png",
   "title" : "Распродажа айфонов",
   "notificationImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjBk93ju7rkAhXnk4sKHT51DtEQjRx6BAgBEAQ&ur",
   "date" : "22.012.19",
@@ -63,7 +63,27 @@
 },
 {
   "id": 32432,
-  "titleImage" : "https://github.com/nassdk/iStoreApi/blob/master/Group%204.1.png",
+  "titleImage" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Group%204.1.png",
+  "title" : "Распродажа айфонов",
+  "notificationImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjBk93ju7rkAhXnk4sKHT51DtEQjRx6BAgBEAQ&ur",
+  "date" : "22.012.19",
+  "time" : "10:50",
+  "notificationDescription": "У нас новые стикеры! И мы хотим разыграть 3 комплекта стикеров Emoji (по 4 смайлика в каждом комплекте) ⠀ Три счастливчика получат по комплекту этих стикеров, а для участия достаточно лишь: 1. Поставить лайк этому посту 2. Отметить двух друзей в комментарии под этим фото 3. Быть подписанным на",
+  "link": "https://www.instagram.com/p/B2MedlvgWAg/"
+},
+{
+  "id": 32432,
+  "titleImage" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Group%204.1.png",
+  "title" : "Распродажа айфонов",
+  "notificationImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjBk93ju7rkAhXnk4sKHT51DtEQjRx6BAgBEAQ&ur",
+  "date" : "22.012.19",
+  "time" : "10:50",
+  "notificationDescription": "У нас новые стикеры! И мы хотим разыграть 3 комплекта стикеров Emoji (по 4 смайлика в каждом комплекте) ⠀ Три счастливчика получат по комплекту этих стикеров, а для участия достаточно лишь: 1. Поставить лайк этому посту 2. Отметить двух друзей в комментарии под этим фото 3. Быть подписанным на",
+  "link": "https://www.instagram.com/p/B2MedlvgWAg/"
+},
+{
+  "id": 32432,
+  "titleImage" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Group%204.png.png",
   "title" : "Распродажа айфонов",
   "notificationImage" : "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjBk93ju7rkAhXnk4sKHT51DtEQjRx6BAgBEAQ&ur",
   "date" : "22.012.19",
