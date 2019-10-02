@@ -10,18 +10,21 @@
   "id" : 12312,
   "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Watch.png",
   "link" : "http://www.istore-d.ru",
+  "title" : ""
   "description" : "Какой то текст"
    },
    {
   "id" : 123213,
-  "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Event.png",
+  "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/image-2.png",
   "link" : "http://www.istore-d.ru",
-  "description" : "Какой то текст"
+  "title" : "Дарим смайлики"
+  "description" : "У нас новые стикеры!И мы хотим разыграть 3 комплекта стикеров Emoji(по 4 смайлика в каждом комплекте) \nТри счастливчика получат по комплекту этих стикеров, а для участия достаточно лишь:\n1. Поставить лайк этому посту\n2. Отметить двух друзей в комментарии под этим фото\n3. Быть подписанным на @istore_mkala\n Можно оставлять много комментариев, отмечая по два друга в каждом.\nПобедителя выберем случайным образом, с помощью специального сервиса, 24 июня, в 12:00 \nЖми на флажок под картинкой чтобы не пропустить итоги розыгрыша.\n Расскажи друзьям о конкурсе, нажав на самолетик под картинкой."
    },
    {
   "id" : 1231242,
   "imageUrl" : "https://raw.githubusercontent.com/nassdk/iStoreApi/master/Watch.png",
   "link" : "http://www.istore-d.ru",
+  "title" : ""
   "description" : "Какой то текст"
    }
  ],
