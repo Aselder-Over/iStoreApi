@@ -1,0 +1,22 @@
+POST. Отправка номера телефона.
+
+{
+  "phone":"9284387766"
+}
+
+POST. Проверка кода.
+{
+  "phone":"9284387766",
+  "code":"3214"
+}
+
+POST. Отправка данных
+
+{
+  "userImage":"https://beru.ru/promo/bonus/static/img/IndexHead/man.png",
+  "firstName":"Jerry",
+  "lastName":"Lindberg",
+  "birthDate":"17.04.70".
+  "email":"jerry@gmail.com",
+  "gender": "Мужской"
+}
