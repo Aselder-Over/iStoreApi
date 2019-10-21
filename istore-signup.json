@@ -16,7 +16,7 @@ POST. Отправка данных
   "userImage":"https://beru.ru/promo/bonus/static/img/IndexHead/man.png",
   "firstName":"Jerry",
   "lastName":"Lindberg",
-  "birthDate":"17.04.70".
+  "birthDate":"17.04.70",
   "email":"jerry@gmail.com",
-  "gender": "Мужской"
+  "gender":"Мужской"
 }
