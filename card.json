@@ -1,11 +1,203 @@
-{
-    "id"    : 123,
-    "title" : "Брюки женские",
-    "description" : "Хорошие",
-    "imageLink" : "https://modnaya.org/uploads/posts/2013-06/1370433637_modnye-zhenskie-bryuki.jpg",
-    "price"    : 500,
-    "oldPrice" : 1000,
-    "sale" : 50
-}
+// 20201026165855
+// https://idillika.com/api/catalogNews.php?page=1&page_size=100&sort=ASC&session_id=4e6ee0f3be1bc4dd3b44f84dee7c9f38
 
+[
+  {
+    "id": 666,
+    "imageLink": "https://idillika.com/upload/iblock/5d8/5d8aa5faef905312d825dc24791d876a.jpg",
+    "title": "авторский стикер для телефона  ЗДОРОВА БАНДИТЫ",
+    "price": 200,
+    "sale": 50,
+    "oldPrice": 400,
+    "brand": "NO DRAMA",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 667,
+    "imageLink": "https://idillika.com/upload/iblock/cbe/cbe755b6a1ba4c66bfcb55535226c32b.jpg",
+    "title": "стикер авторский BRUTAL! ",
+    "price": 200,
+    "sale": 50,
+    "oldPrice": 400,
+    "brand": "NO DRAMA",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 668,
+    "imageLink": "https://idillika.com/upload/iblock/a1d/a1ddf7f84b95911ba9f0e11939396fae.jpg",
+    "title": "стикер авторский сердце DRAMA QUEEN ",
+    "price": 200,
+    "brand": "NO DRAMA",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 670,
+    "imageLink": "https://idillika.com/upload/iblock/144/144c2d16a505c56002ab4b188e3bb956.jpg",
+    "title": "стикер авторский БЕЗЫМЯННЫЙ ПАЛЕЦ",
+    "price": 200,
+    "brand": "NO DRAMA",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 671,
+    "imageLink": "https://idillika.com/upload/iblock/c9e/c9e93b528c0eb4d3d75c38db13b8f308.jpg",
+    "title": "стикер авторский DRAMA QUEEN pink",
+    "price": 200,
+    "brand": "NO DRAMA",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 672,
+    "imageLink": "https://idillika.com/upload/iblock/17d/17d49ad92a4ac500825b295a697c6170.jpg",
+    "title": "стикер авторский НЫТЬMOOD",
+    "price": 200,
+    "brand": "NO DRAMA",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 661,
+    "imageLink": "https://idillika.com/upload/iblock/e0f/e0f8504698de1f2c52ccb30e6b83eb0c.jpg",
+    "title": "шелковый скранч в размере S",
+    "price": 950,
+    "brand": "NO DRAMA",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 664,
+    "imageLink": "https://idillika.com/upload/iblock/0a3/0a3ad535e34b271a8e34571d6ce35a3c.jpg",
+    "title": "сэт из льняных скранчей в размере S",
+    "price": 1900,
+    "brand": "NO DRAMA",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 679,
+    "imageLink": "https://idillika.com/upload/iblock/03d/03d1d7131ae19e911d708985e31af2af.jpg",
+    "title": "Коврик для сушки посуды Flume™ большой серый",
+    "price": 1990,
+    "brand": "JOSEPH JOSEPH",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 662,
+    "imageLink": "https://idillika.com/upload/iblock/dfc/dfc1957caa704d0d2adb737a60758ab0.jpg",
+    "title": "шелковый скранч САКУРА в размере М",
+    "price": 2200,
+    "brand": "NO DRAMA",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 663,
+    "imageLink": "https://idillika.com/upload/iblock/313/313f7a15ddb78b17080d0879a6fda8c6.jpg",
+    "title": "шелковый скранч КАПУЧИНО в размере М",
+    "price": 2200,
+    "brand": "NO DRAMA",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 665,
+    "imageLink": "https://idillika.com/upload/iblock/825/8257b6d2ec2d15b8165ebea0bb483fef.jpg",
+    "title": "скранч шелковый АЛЫЙ в размере М",
+    "price": 2200,
+    "brand": "NO DRAMA",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 673,
+    "imageLink": "https://idillika.com/upload/iblock/dee/dee8c6ce52f54b7a70e91b9127621647.jpg",
+    "title": "термо-бутылка герметичная ",
+    "price": 2450,
+    "brand": "BLACK + BLUM",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 658,
+    "imageLink": "https://idillika.com/upload/iblock/44c/44c58a153ef84b46ef368e8d85dafe6d.JPG",
+    "title": "сэт из шелковых скранчей",
+    "price": 2500,
+    "brand": "NO DRAMA",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 675,
+    "imageLink": "https://idillika.com/upload/iblock/a93/a9346c4a5fc869e7b1ea2452a37ad8d7.jpg",
+    "title": "Тарелка для пасты Bordallo Pinheiro \"Томат\" 25см",
+    "price": 2900,
+    "brand": "Мировая Мода",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 660,
+    "imageLink": "https://idillika.com/upload/iblock/cd9/cd9ad1291249de07bbbd34c65ff14c73.jpg",
+    "title": "шелковый скранч с бусинами",
+    "price": 3500,
+    "brand": "NO DRAMA",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 674,
+    "imageLink": "https://idillika.com/upload/iblock/4dc/4dce151cd292a7b9cf4f2b62129be6cb.jpg",
+    "title": "ланчбокс герметичный с ложкой BOX APPETIT",
+    "price": 3690,
+    "brand": "BLACK + BLUM",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 659,
+    "imageLink": "https://idillika.com/upload/iblock/aaa/aaa264f1edad4fb1b1f8b4fe69e4784b.jpg",
+    "title": "бархатный бант \"Каляша\" на заколке",
+    "price": 5000,
+    "brand": "NO DRAMA",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 678,
+    "imageLink": "https://idillika.com/upload/iblock/44e/44e65a2d378952b6d0f91d23149bef39.jpeg",
+    "title": "Набор мисок Nest 9 Plus Sky",
+    "price": 5100,
+    "brand": "JOSEPH JOSEPH",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 676,
+    "imageLink": "https://idillika.com/upload/iblock/973/9731abc829e357b2280e11482c809132.jpg",
+    "title": "Емкость с крышкой Bordallo Pinheiro \"Перец\" 22см (красный)",
+    "price": 5350,
+    "sale": 50,
+    "oldPrice": 10700,
+    "brand": "Мировая Мода",
+    "available": true,
+    "favorite": false
+  },
+  {
+    "id": 657,
+    "imageLink": "https://idillika.com/upload/iblock/fdf/fdf040f89b35b73626409bb0a079f430.jpg",
+    "title": "STAUB кокот \"Помидор\"",
+    "price": 19550,
+    "sale": 50,
+    "oldPrice": 40000,
+    "brand": "Фэшн хаус",
+    "available": true,
+    "favorite": false
+  }
+]
 
