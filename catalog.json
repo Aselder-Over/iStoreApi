@@ -1,68 +1,98 @@
 {
   "man": [
     {
+      "id": 1
       "name": "Новинки",
-      "imageLink": "https://static10.tgstat.ru/channels/_0/86/86a67725b6d372b7a4353d781ccfa58c.jpg"
+      "imageLink": "https://static10.tgstat.ru/channels/_0/86/86a67725b6d372b7a4353d781ccfa58c.jpg",
+      "subCategories": [
+          {
+          "name": "Подкатегория 1"
+          "id": 21
+          },
+          {
+            "name": "Подкатегория 2"
+            "id": 20
+          },
+          {
+            "name": "Подкатегория 3"
+            "id": 22
+          }
+      ]
     },
     {
+      "id": 2
       "name": "Распродажа",
       "imageLink" : "https://images.ru.prom.st/643204117_w640_h640_rasprodazha.jpg"
     },
     {
+    "id": 3
     "name" : "Костюмы",
     "imageLink" : "http://imagesmtv-a.akamaihd.net/uri/mgid:file:http:shared:mtv.com/news/wp-content/uploads/2015/07/spl1068793_002-1435848968.jpg?quality=0.8&format=jpg&width=1800"
     },
     {
+    "id": 4
     "name" : "Пиджаки",
     "imageLink": "https://i.pinimg.com/736x/9d/1e/a8/9d1ea8d79e88bbce436b669a7cf24691.jpg"
     },
     {
+    "id": 5
     "name" : "Рубашки",
     "imageLink": "https://pbs.twimg.com/media/ECsiABsXsAAq0oF.jpg:large"
     },
     {
+    "id": 6
     "name" : "Брюки",
     "imageLink": "https://i.pinimg.com/736x/2e/b0/bb/2eb0bb26c7eb8eb1231ae669e3fae13e.jpg"
     },
     {
+    "id": 7
     "name" : "Туфли",
     "imageLink": "https://i.pinimg.com/736x/35/cb/88/35cb884028e7ac5c9896c800214f0037.jpg"
     }
   ],
     "woman": [
      {
+      "id": 8
       "name" : "Новинки",
       "imageLink" : "https://static10.tgstat.ru/channels/_0/86/86a67725b6d372b7a4353d781ccfa58c.jpg"
     },
     {
+      "id": 9
       "name" : "Распродажа",
       "imageLink" : "https://images.ru.prom.st/643204117_w640_h640_rasprodazha.jpg"
     },
     {
+    "id": 10
     "name" : "Одежда",
     "imageLink": "https://i.pinimg.com/originals/d7/ba/72/d7ba725ac135df0e72cc799b9200a6fe.jpg"
     },
     {
+    "id": 11
     "name" : "В тренде",
     "imageLink": "http://img10.joyreactor.cc/pics/post/full/%D0%AD%D1%80%D0%BE%D1%82%D0%B8%D0%BA%D0%B0-Sabrina-Lynn-%D1%81%D0%B8%D1%81%D1%8C%D0%BA%D0%B8-%D0%BF%D0%BE%D0%BF%D0%BA%D0%B0-4593329.jpeg"
     },
     {
+    "id": 12
     "name" : "Зима",
     "imageLink": "https://i.pinimg.com/originals/5b/32/09/5b32095bd20519e70e1fc7e7dab00d39.jpg"
     },
     {
+    "id": 13
     "name" : "Осень",
     "imageLink": "https://c4.wallpaperflare.com/wallpaper/143/204/988/women-outdoors-redhead-model-sabrina-lynn-hd-wallpaper-preview.jpg"
     },
     {
+    "id": 14
     "name" : "Весна",
     "imageLink": "https://get.wallhere.com/photo/Sabrina-Lynn-redhead-smiling-women-1561223.jpg"
     },
     {
+    "id": 15
     "name" : "Лето",
     "imageLink": "https://get.wallhere.com/photo/Sabrina-Lynn-women-model-swimming-pool-closed-eyes-armpits-readhead-freckles-bikini-top-lying-on-back-1566651.jpg"
     },
     {
+    "id": 16
     "name" : "Обувь",
     "imageLink": "https://i.pinimg.com/736x/87/71/76/877176c0ae5f7f7f2b1d4b7017034514.jpg"
     }
