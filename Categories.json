@@ -1,0 +1,22 @@
+[
+  
+  {
+    "id": 10,
+    "name": "Одежда",
+    "image": "https://i.pinimg.com/originals/6d/9e/cf/6d9ecffb7ee6d6f7e2cff2782a5ecbd4.jpg",
+    "subCategories": true
+  }
+  ,
+    {
+    "id": 10,
+    "name": "Одежда",
+    "image": "https://i.pinimg.com/originals/6d/9e/cf/6d9ecffb7ee6d6f7e2cff2782a5ecbd4.jpg",
+    "subCategories": true
+  },
+  {
+    "id": 10,
+    "name": "Одежда",
+    "image": "https://i.pinimg.com/originals/3d/a1/f7/3da1f707a81ec9ce1b885f140ebccee4.jpg",
+    "subCategories": false
+  }
+]
