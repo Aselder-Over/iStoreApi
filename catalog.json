@@ -10,7 +10,7 @@
      }
     ],
   "image": "http://imagesmtv-a.akamaihd.net/uri/mgid:file:htt:shared:mtv.com/news/wp-content/uploads/2015/07/spl1068793_002-1435848968.jpg?quality=0.8&format=jpg&width=1800",
-  "subCatigories": [
+  "subCategories": [
     {
       "id": 120,
       "name": "туфли"
@@ -36,7 +36,7 @@
    }
   ],
   "image": "http://imagesmtv-a.akamaihd.net/uri/mgid:file:htt:shared:mtv.com/news/wp-content/uploads/2015/07/spl1068793_002-1435848968.jpg?quality=0.8&format=jpg&width=1800",
-  "subCatigories": [
+  "subCategories": [
   {
    "id": 130,
    "name": "туфли"
@@ -62,7 +62,7 @@
    "children": true
    }
   ],
-  "subCatigories": [
+  "subCategories": [
     {
     "id": 220,
     "name": "туфли"
@@ -100,7 +100,7 @@
     "children": false
    }
   ],
-  "subCatigories": [
+  "subCategories": [
   {
     "id": 230,
     "name": "туфли"
