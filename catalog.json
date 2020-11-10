@@ -1,95 +1,118 @@
-{
-  "genders": [
-    
+  [
+   {
+    "id": 1001,
+    "name": "Одежда",
+    "genders": [
+     {
+      "man": true,
+      "woman": false,
+      "children": false
+     }
+    ],
+  "image": "http://imagesmtv-a.akamaihd.net/uri/mgid:file:htt:shared:mtv.com/news/wp-content/uploads/2015/07/spl1068793_002-1435848968.jpg?quality=0.8&format=jpg&width=1800",
+  "subCatigories": [
     {
-      "id": 3001,
-      "name": "Man",
-      "catigories": [
-          {
-            "id": 31001,
-            "name": "Одежда",
-            "image": "http://imagesmtv-a.akamaihd.net/uri/mgid:file:htt:shared:mtv.com/news/wp-content/uploads/2015/07/spl1068793_002-1435848968.jpg?quality=0.8&format=jpg&width=1800",
-            "subCatigories": [
-            {
-              "id": 3120,
-              "name": "туфли"
-            },
-            {
-              "id": 3121,
-              "name": "сапоги"
-            },
-            {
-              "id": 3122,
-              "name": "кроссовки"
-            }
-          ]
-        },
-        
-          {
-            "id": 31002,
-            "name": "Одежда",
-            "image": "http://imagesmtv-a.akamaihd.net/uri/mgid:file:htt:shared:mtv.com/news/wp-content/uploads/2015/07/spl1068793_002-1435848968.jpg?quality=0.8&format=jpg&width=1800",
-            "subCatigories": [
-            {
-              "id": 3130,
-              "name": "туфли"
-            },
-            {
-              "id": 3131,
-              "name": "сапоги"
-            },
-            {
-              "id": 3132,
-              "name": "кроссовки"
-            }
-          ]
-        }
-      ]
+      "id": 120,
+      "name": "туфли"
     },
     {
-      "id": 3002,
-      "name": "Woman",
-      "catigories": [
-          {
-            "id": 32001,
-            "name": "Одежда",
-            "image": "https://i.pinimg.com/originals/3d/a1/f7/3da1f707a81ec9ce1b885f140ebccee4.jpg",
-            "subCatigories": [
-            {
-              "id": 3220,
-              "name": "туфли"
-            },
-            {
-              "id": 3221,
-              "name": "сапоги"
-            },
-            {
-              "id": 3222,
-              "name": "кроссовки"
-            }
-          ]
-        },
-        
-          {
-            "id": 32002,
-            "name": "Одежда",
-            "image": "https://i.pinimg.com/originals/6d/9e/cf/6d9ecffb7ee6d6f7e2cff2782a5ecbd4.jpg",
-            "subCatigories": [
-            {
-              "id": 3230,
-              "name": "туфли"
-            },
-            {
-              "id": 3231,
-              "name": "сапоги"
-            },
-            {
-              "id": 3232,
-              "name": "кроссовки"
-            }
-          ]
-        }
-      ]
+      "id": 121,
+      "name": "сапоги"
+    },
+    {
+      "id": 122,
+      "name": "кроссовки"
     }
   ]
-}
+ }, 
+ {
+  "id": 1002,
+  "name": "Одежда",
+  "genders": [
+   {
+    "man": false,
+    "woman": true,
+    "children": false
+   }
+  ],
+  "image": "http://imagesmtv-a.akamaihd.net/uri/mgid:file:htt:shared:mtv.com/news/wp-content/uploads/2015/07/spl1068793_002-1435848968.jpg?quality=0.8&format=jpg&width=1800",
+  "subCatigories": [
+  {
+   "id": 130,
+   "name": "туфли"
+  },
+  {
+   "id": 131,
+   "name": "сапоги"
+  },
+  {
+   "id": 132,
+   "name": "кроссовки"
+   }
+  ]
+ },
+ {
+  "id": 2001,
+  "name": "Одежда",
+  "image": "https://i.pinimg.com/originals/3d/a1/f7/3da1f707a81ec9ce1b885f140ebccee4.jpg",
+  "genders": [
+   {
+   "man": false,
+   "woman": false,
+   "children": true
+   }
+  ],
+  "subCatigories": [
+    {
+    "id": 220,
+    "name": "туфли"
+    },
+    {
+    "id": 221,
+    "name": "сапоги"
+    },
+    {
+    "id": 222,
+    "name": "кроссовки"
+    }
+  ]
+ },
+ {
+  "id": 2001,
+  "name": "Одежда",
+  "image": "https://i.pinimg.com/originals/3d/a1/f7/3da1f707a81ec9ce1b885f140ebccee4.jpg",
+  "genders": [
+   {
+    "man": false,
+    "woman": true,
+    "children": false
+   }
+  ]
+ },
+{
+  "id": 2002,
+  "name": "Одежда",
+  "image": "https://i.pinimg.com/originals/6d/9e/cf/6d9ecffb7ee6d6f7e2cff2782a5ecbd4.jpg",
+  "genders": [
+  {
+    "man": false,
+    "woman": true,
+    "children": false
+   }
+  ],
+  "subCatigories": [
+  {
+    "id": 230,
+    "name": "туфли"
+  },
+  {
+   "id": 231,
+   "name": "сапоги"
+  },
+  {
+   "id": 232,
+    "name": "кроссовки"
+   }
+  ]
+ }
+]
