@@ -1,0 +1,67 @@
+[
+  {
+    "size": "XXXS",
+    "numberSize": 36
+  },
+  
+  {
+    "size": "XXS",
+    "numberSize": 38
+  },
+  
+  {
+    "size": "XS",
+    numberSize: 40
+  },
+  
+  {
+    "size": "S",
+    "numberSize": 42
+  },
+  
+  {
+    "size": "M",
+    "numberSize": 44
+  },
+  
+  {
+    "size": "L",
+    "numberSize": 46
+  },
+  
+  {
+    "size": "XL",
+    "numberSize": 48
+  },
+  
+  {
+    "size": "XXL",
+    "numberSize": 50
+  },
+  
+  {
+    "size": "XXXL",
+    "numberSize": 52
+  },
+  
+  {
+    "size": "4XL",
+    "numberSize": 54
+  },
+  
+  {
+    "size": "5XL",
+    "numberSize": 56
+  },
+  
+  {
+    "size": "6XL",
+    "numberSize": 58
+  },
+  
+  {
+    "size": "7XL",
+    "numberSize": 60
+  },
+  
+]
